@@ -1,0 +1,33 @@
+.iconsSpace{
+    margin-top: 10%;
+    background-color: #26252b;
+    min-height: 50vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;   
+}
+.icon{
+    margin: 10%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: 1px ;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+p{
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    transform: rotate(-30deg) translateY(25px);
+}
+.outside{
+    border: 1px ;
+    border-radius: 15px;
+    width: 150px;
+    justify-content: center;        
+    align-items: center;
+    background-color: rgba(58,56,67,255);
+}
